@@ -1,7 +1,8 @@
 <div align="center">
 
 ### Hi there, I'm Frank 👋  
-#### AI/ML architect, inventor, angel investor: 20+ years building hyperscale platforms (680M users, 20PB data, 8 patents). Cornell and Stanford Alum
+<p>AI/ML architect, inventor, angel investor<br>20+ years building hyperscale platforms (680M users, 20PB data, 8 patents)<br>Cornell and Stanford Alum</p>
+
 
 </div>
 
